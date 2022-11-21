@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Takshak6" size="0.120000 0.120000" />
+    <ImageTarget name="Takshak3" size="0.080000 0.080000" />
+    <ImageTarget name="Takshak2" size="0.080000 0.080000" />
+    <ImageTarget name="t1" size="0.080000 0.080000" />
+  </Tracking>
+</QCARConfig>

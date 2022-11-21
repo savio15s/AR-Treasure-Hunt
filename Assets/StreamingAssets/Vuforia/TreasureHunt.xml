@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="mermaid" size="1.500000 3.176284" />
+    <ImageTarget name="ihf" size="0.300000 0.141667" />
+    <ImageTarget name="snake" size="0.300000 0.635257" />
+    <ImageTarget name="eye" size="2.500000 1.180625" />
+    <ImageTarget name="gandhi" size="0.300000 0.141675" />
+    <ImageTarget name="glass" size="2.200000 1.038950" />
+    <ImageTarget name="tiger" size="0.150000 0.070833" />
+    <ImageTarget name="x" size="0.080000 0.037778" />
+    <ImageTarget name="rocket" size="0.250000 0.118056" />
+  </Tracking>
+</QCARConfig>

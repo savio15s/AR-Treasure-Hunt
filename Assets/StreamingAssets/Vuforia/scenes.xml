@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="4455250-captain-america-wallpapers-01" size="0.130000 0.081250" />
+    <ImageTarget name="air1" size="0.130000 0.081250" />
+    <ImageTarget name="air" size="0.130000 0.081250" />
+    <ImageTarget name="ealaphant" size="0.130000 0.081021" />
+    <ImageTarget name="fifa_pic_0" size="0.130000 0.073060" />
+    <ImageTarget name="pikachu" size="0.130000 0.073043" />
+    <ImageTarget name="qutub-minar-ka-photo" size="0.130000 0.098222" />
+    <ImageTarget name="space1" size="0.130000 0.097500" />
+    <ImageTarget name="fire" size="0.130000 0.086509" />
+    <ImageTarget name="space" size="0.130000 0.097363" />
+    <ImageTarget name="scene" size="0.130000 0.081021" />
+    <ImageTarget name="fire1" size="0.130000 0.073125" />
+    <ImageTarget name="earth-01" size="0.130000 0.073125" />
+  </Tracking>
+</QCARConfig>
